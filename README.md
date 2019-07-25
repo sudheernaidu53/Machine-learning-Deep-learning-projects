@@ -1,1 +1,1 @@
-# Kaggle-competitions
+# Machine learning - deep learning projects
