@@ -16,4 +16,7 @@ alt="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uac
 
 ## Other fun projects  
 >### [Fill in the blanks generator](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/fill%20in%20the%20blanks%20using%20nltk)  
->> Using nltk library, we can create fill in the blanks type questions by randomly selecting proper noun or noun as the blank
+>> Using nltk library, we can create fill in the blanks type questions by randomly selecting proper noun or noun as the blank  
+>### [Trapped Knight](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/fill%20in%20the%20blanks%20using%20nltk)  
+>> found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
+
