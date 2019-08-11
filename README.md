@@ -28,6 +28,14 @@ here is how the names and titles of the images are given
 **struck at** : the number of the square where the knight is struck on the chessboard  
 **after** : number of moves the knight made before getting trapped.  
 Best thing, I felt so content when I saw the colorful patterns of knight for different patterns and different board sizes, a crucifix, a window, a windmill....I am attaching some images here for your pleasure.  
+<p float="left">
+  <img src = https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
+width="250" height="250" border="10" />
+  <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
+width="250" height="250" border="10" /> 
+  <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
+width="250" height="250" border="10" width="100" />
+</p>
 <p align="center">
 <a target="_blank">
         <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
