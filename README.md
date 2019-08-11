@@ -17,6 +17,11 @@ alt="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uac
 ## Other fun projects  
 >### [Fill in the blanks generator](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/fill%20in%20the%20blanks%20using%20nltk)  
 >> Using nltk library, we can create fill in the blanks type questions by randomly selecting proper noun or noun as the blank  
->### [Trapped Knight](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/fill%20in%20the%20blanks%20using%20nltk)  
->> found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
+>### [Trapped Knight](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/The%20trapped%20knight)  
+>>Ever wondered what happens to different chess pieces if there is infinite/finite board and it is numbered it in someway, and you want to move your chess piece that it keeps moving to unseen squares and are numbered smallest possible, here I tried to implement this problem with knight and the pattern of numbers on chess board are increasing outwards spirally.  
+>>Got the inspiration to write this from this [numberphile video](https://www.youtube.com/watch?v=RGQe8waGJ4w), and it's beautiful  
+>>Find the images of the patterns the knight follow [here](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/The%20trapped%20knight/images)  
+here names are given to the files such that  
+
+>>found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
 
