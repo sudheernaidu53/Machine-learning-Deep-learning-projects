@@ -27,7 +27,7 @@ here is how the names and titles are given to images
 **infi/small board** : 'infi board' conveys that the knight is trapped because all possible moves have been visited where as 'small board' conveys that the knight is trapped because the board is small/constrained and could have moved even more if the board was big  
 **struck at** : the number of the square where the knight is struck on the chessboard  
 **after** : number of moves the knight made before getting trapped.  
-- Best thing, I felt so content when I saw the colorful patterns of knight for different patterns and different board sizes, a crucifix, a window, a windmill....I am attaching some images here for your pleasure.  
+>> - Best thing, I felt so content when I saw the colorful patterns of knight for different patterns and different board sizes, a crucifix, a window, a windmill....I am attaching some images here for your pleasure.  
 <p float="left">
   <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20100%20pattern%20_%202%203%20infi%20boardstruck%20at%204698%20after%204634%20steps.png" 
 width="250" height="250" border="10" />
