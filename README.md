@@ -20,8 +20,8 @@ alt="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uac
 >### [Trapped Knight](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/The%20trapped%20knight)  
 >> - Ever wondered what happens to different chess pieces if there is infinite/finite board and it is numbered it in someway, and you want to move your chess piece that it keeps moving to unseen squares and are numbered smallest possible, here I tried to implement this problem with knight and the pattern of numbers on chess board are increasing outwards spirally.  
 >> - Got the inspiration to write this from this [numberphile video](https://www.youtube.com/watch?v=RGQe8waGJ4w), and it's beautiful  
->>*Find the images of the patterns the knight follow [here](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/The%20trapped%20knight/images)*  
-here is how the names and titles of the images are given  
+>> - *Find the images of the patterns the knight follow [here](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/The%20trapped%20knight/images)*  
+here is how the names and titles are given to images
 **length** : number after 'length_' is number of squares in a row or column of the chessboard  
 **pattern** : two numbers seperated by space after 'pattern_' is the pattern which the knight is following while moving  
 **infi/small board** : 'infi board' conveys that the knight is trapped because all possible moves have been visited where as 'small board' conveys that the knight is trapped because the board is small/constrained and could have moved even more if the board was big  
@@ -49,5 +49,5 @@ width="250" height="250" border="10" width="100" />
   width ="250" height = "250" border = "10" width="100" />
 </p>
 
->> found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the conventional knight gets trapped for different sizes of chess board, in case you want to check if your code is running
+>> - found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the conventional knight gets trapped for different sizes of chess board, in case you want to check if your code is running
 
