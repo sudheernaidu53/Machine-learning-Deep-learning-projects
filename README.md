@@ -49,5 +49,5 @@ width="250" height="250" border="10" width="100" />
   width ="250" height = "250" border = "10" width="100" />
 </p>
 
->> found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
+>> found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the conventional knight gets trapped for different sizes of chess board, in case you want to check if your code is running
 
