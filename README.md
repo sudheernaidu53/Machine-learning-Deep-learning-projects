@@ -29,23 +29,12 @@ here is how the names and titles of the images are given
 **after** : number of moves the knight made before getting trapped.  
 Best thing, I felt so content when I saw the colorful patterns of knight for different patterns and different board sizes, a crucifix, a window, a windmill....I am attaching some images here for your pleasure.  
 <p float="left">
-  <img src = https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
+  <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20100%20pattern%20_%202%203%20infi%20boardstruck%20at%204698%20after%204634%20steps.png" 
 width="250" height="250" border="10" />
-  <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
+  <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20150%20pattern%20_%203%204%20infi%20boardstruck%20at%201164%20after%201888%20steps.png" 
 width="250" height="250" border="10" /> 
   <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
 width="250" height="250" border="10" width="100" />
 </p>
-<p align="center">
-<a target="_blank">
-        <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
-width="250" height="250" border="10" /></a>
-</p>
-<p align="center">
-<a target="_blank">
-        <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
-width="250" height="250" border="10" /></a>
-</p>
-
 >>found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
 
