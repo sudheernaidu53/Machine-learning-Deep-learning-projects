@@ -36,7 +36,17 @@ width="250" height="250" border="10" />
   <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
 width="250" height="250" border="10" width="100" />
    <img src= "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20200%20pattern%20_%201%201%20small%20board%20struck%20at%2039105%20after%209802%20stepssquare%20number.png"
-  width ="250" height = "250" border = "10"
+  width ="250" height = "250" border = "10" width="100" />
+   <img src= "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20200%20pattern%20_%204%205%20infi%20boardstruck%20at%206500%20after%204286%20steps.png"
+  width ="250" height = "250" border = "10" width="100" />
+   <img src= "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%2050%20pattern%20_%202%205%20small%20board%20struck%20at%201577%20after%20827%20steps.png"
+  width ="250" height = "250" border = "10" width="100" />
+   <img src= "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20500%20pattern%20_%201%2010%20small%20board%20struck%20at%20229976%20after%20200464%20steps.png"
+  width ="250" height = "250" border = "10" width="100" />
+   <img src= "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%2080%20pattern%20_%201%202%20infi%20boardstruck%20at%202084%20after%202016%20steps.png"
+  width ="250" height = "250" border = "10" width="100" />
+   <img src= "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20500%20pattern%20_%201%2050%20small%20board%20struck%20at%20159638%20after%2068156%20steps.png"
+  width ="250" height = "250" border = "10" width="100" />
 </p>
 
 >> found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
