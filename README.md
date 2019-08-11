@@ -35,6 +35,9 @@ width="250" height="250" border="10" />
 width="250" height="250" border="10" /> 
   <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%201000%20pattern%20_%204%2010%20infi%20boardstruck%20at%2026967%20after%207574%20steps.png" 
 width="250" height="250" border="10" width="100" />
+   <img src= "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20200%20pattern%20_%201%201%20small%20board%20struck%20at%2039105%20after%209802%20stepssquare%20number.png"
+  width ="250" height = "250" border = "10"
 </p>
->>found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
+
+>> found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the knight gets trapped for different sizes of chess board
 
