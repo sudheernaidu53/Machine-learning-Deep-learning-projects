@@ -74,7 +74,7 @@ width="350" height="350" border="10" />
 width="350" height="350" border="10" /> 
 </p>
 These are the smallest numbers with respective persistence
-<p>
+<p align = "center">
         <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20and%20minimum%20number%20with%20that%20persistence.JPG"
       align = "center" />
 </p>
