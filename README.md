@@ -73,7 +73,7 @@ width="350" height="350" border="10" />
   <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20vs%20number%20of%20numbers%20where%20number%20is%20considered%20i.e%20permutative%20numbers%20are%20different.png" 
 width="350" height="350" border="10" /> 
 </p>
->>These are the smallest numbers with respective persistence
+>> These are the smallest numbers with respective persistence
 <p align>
         <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20and%20minimum%20number%20with%20that%20persistence.JPG"
       align = "center" />
