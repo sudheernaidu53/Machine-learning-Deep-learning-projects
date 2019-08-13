@@ -51,3 +51,18 @@ width="250" height="250" border="10" width="100" />
 
 >> - found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the conventional knight gets trapped for different sizes of chess board, in case you want to check if your code is running
 
+> ###[Multiplicative persistence]()
+>> **multiplicative persistence** of a number is basically a measure of how long it can persist from being transformed into a single digit. Steps to find multiplicative persistence are as follows:
+1- if the input number is a single digit, it's persistence is 0, as it is already a single digit.
+2- if input number is of length more than 1. break it into single digits and multiply those digits with each other, if resultant number is a single digit, number of steps from input number to final single digit is multiplicative persistence
+3- if the resultant number is not a single digit, perform step two again  
+
+>> I Got the inspiration to write this from this [numberphile video](https://www.youtube.com/watch?v=Wim9WJeDTHQ), Matt Parker explained it really well. I encourage you to look at it once, if you have not yet.  
+>> I have attached the following images I got from the analysis of numbers till 10 crores. For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence  
+<p float="left">
+  For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence
+  <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20100%20pattern%20_%202%203%20infi%20boardstruck%20at%204698%20after%204634%20steps.png" 
+width="250" height="250" border="10" />
+  <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20150%20pattern%20_%203%204%20infi%20boardstruck%20at%201164%20after%201888%20steps.png" 
+width="250" height="250" border="10" /> 
+</p>
