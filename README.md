@@ -68,7 +68,7 @@ so for example, number 234562 will be converted into (0,0,2,1,1,1,1,0,0,0)
 >> I have attached the images I got from the analysis of numbers till 10 crores. For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence. The graph is plotted for different persistences and total number of numbers with each persistence.
   for second image every  number till 10 crores are considered (i.e, permutatively equivalent numbers are considered different each one is counted one time).  If you want accurate numbers in both cases, check csv files attached [here](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/multiplicative%20persistence)
 <p float="left">
-  <img src = "hhttps://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20vs%20number%20of%20numbers%20where%20key%20is%20considered%20i.e%20permutative%20numbers%20are%20same.png" 
+  <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20vs%20number%20of%20numbers%20where%20key%20is%20considered%20i.e%20permutative%20numbers%20are%20same.png" 
 width="350" height="350" border="10" />
   <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20vs%20number%20of%20numbers%20where%20number%20is%20considered%20i.e%20permutative%20numbers%20are%20different.png" 
 width="350" height="350" border="10" /> 
