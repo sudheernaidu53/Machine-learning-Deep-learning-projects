@@ -60,10 +60,11 @@ width="250" height="250" border="10" width="100" />
 >> I Got the inspiration to write this from this [numberphile video](https://www.youtube.com/watch?v=Wim9WJeDTHQ), Matt Parker explained it really well. I encourage you to look at it once, if you have not yet.  
 >> I have attached the following images I got from the analysis of numbers till 10 crores. For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence  
 <p float="left">
-  For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence
-  ![image 1](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20100%20pattern%20_%202%203%20infi%20boardstruck%20at%204698%20after%204634%20steps.png)
+  For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence. The graph is plotted for different persistences and total number of numbers with each persistence.
+  for second image every  number till 10 crores are considered (i.e, permutatively equivalent numbers are considered different each one is counted one time)
+        
   <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20100%20pattern%20_%202%203%20infi%20boardstruck%20at%204698%20after%204634%20steps.png" 
-width="250" height="250" border="10" />
+width="350" height="350" border="10" />
   <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20150%20pattern%20_%203%204%20infi%20boardstruck%20at%201164%20after%201888%20steps.png" 
-width="250" height="250" border="10" /> 
+width="350" height="350" border="10" /> 
 </p>
