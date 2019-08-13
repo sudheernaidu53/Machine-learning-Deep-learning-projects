@@ -58,11 +58,16 @@ width="250" height="250" border="10" width="100" />
 3- if the resultant number is not a single digit, perform step two again  
 
 >> I Got the inspiration to write this from this [numberphile video](https://www.youtube.com/watch?v=Wim9WJeDTHQ), Matt Parker explained it really well. I encourage you to look at it once, if you have not yet.  
->> I have attached the following images I got from the analysis of numbers till 10 crores. For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence  
-<p float="left">
-  For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence. The graph is plotted for different persistences and total number of numbers with each persistence.
+>> if we mechanincally code down to find out persistence for each number it will take a lot of time, as for big numbers you have to bring it back down to single integer by iterating the process.   
+**Instead, we can use dictionary to keep track of already processed numbers** and use processed numbers' persistence to  calcualte present number's persistence  
+**ex:** persistence(27) = persistence(14)+1 = 2  
+though it seems like not so important, we can basically see huge amount of time saved when the numbers get bigger and bigger  
+**so what are the keys of numbers to be stored in dictionary?**
+as persistence of numbers with permutative digits are always same, we should keep the key to be something which should be same for permutative numbers. i.e, say number 23456 and number 45236 should have same key, so counting number of occurence of each digit and convertin it to a tuple should work in awesome way. *ahem, ahem. those who are wondering why not arrays, remember arrays are not hashable*. And this way we will effectively calculate persistence for only number instead of all of it's permutative equivalents.  
+so for example, number 234562 will be converted into (0,0,2,1,1,1,1,0,0,0)
+>> I have attached the images I got from the analysis of numbers till 10 crores. For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence. The graph is plotted for different persistences and total number of numbers with each persistence.
   for second image every  number till 10 crores are considered (i.e, permutatively equivalent numbers are considered different each one is counted one time)
-        
+<p float="left">
   <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20100%20pattern%20_%202%203%20infi%20boardstruck%20at%204698%20after%204634%20steps.png" 
 width="350" height="350" border="10" />
   <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20150%20pattern%20_%203%204%20infi%20boardstruck%20at%201164%20after%201888%20steps.png" 
