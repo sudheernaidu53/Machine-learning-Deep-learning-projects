@@ -51,7 +51,7 @@ width="250" height="250" border="10" width="100" />
 
 >> - found this [link](https://oeis.org/A316667/b316667.txt) which tells you where the conventional knight gets trapped for different sizes of chess board, in case you want to check if your code is running
 
-> ###[Multiplicative persistence]()
+> ### [Multiplicative persistence](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/multiplicative%20persistence)
 >> **multiplicative persistence** of a number is basically a measure of how long it can persist from being transformed into a single digit. Steps to find multiplicative persistence are as follows:
 1- if the input number is a single digit, it's persistence is 0, as it is already a single digit.
 2- if input number is of length more than 1. break it into single digits and multiply those digits with each other, if resultant number is a single digit, number of steps from input number to final single digit is multiplicative persistence
@@ -66,10 +66,11 @@ though it seems like not so important, we can basically see huge amount of time 
 as persistence of numbers with permutative digits are always same, we should keep the key to be something which should be same for permutative numbers. i.e, say number 23456 and number 45236 should have same key, so counting number of occurence of each digit and convertin it to a tuple should work in awesome way. *ahem, ahem. those who are wondering why not arrays, remember arrays are not hashable*. And this way we will effectively calculate persistence for only number instead of all of it's permutative equivalents.  
 so for example, number 234562 will be converted into (0,0,2,1,1,1,1,0,0,0)
 >> I have attached the images I got from the analysis of numbers till 10 crores. For first image only one number is considered from all equivalent permutative numbers. i.e, out of these numbers 123,231,321,312,132,213 only 123 is considered as all of them have same multiplicative persistence. The graph is plotted for different persistences and total number of numbers with each persistence.
-  for second image every  number till 10 crores are considered (i.e, permutatively equivalent numbers are considered different each one is counted one time)
+  for second image every  number till 10 crores are considered (i.e, permutatively equivalent numbers are considered different each one is counted one time).  If you want accurate numbers in both cases, check csv files attached [here](https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/tree/master/multiplicative%20persistence)
 <p float="left">
-  <img src = "https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20100%20pattern%20_%202%203%20infi%20boardstruck%20at%204698%20after%204634%20steps.png" 
+  <img src = "hhttps://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20vs%20number%20of%20numbers%20where%20key%20is%20considered%20i.e%20permutative%20numbers%20are%20same.png" 
 width="350" height="350" border="10" />
-  <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/The%20trapped%20knight/images/length%20_%20150%20pattern%20_%203%204%20infi%20boardstruck%20at%201164%20after%201888%20steps.png" 
+  <img src="https://github.com/sudheernaidu53/Machine-learning-Deep-learning-projects/blob/master/multiplicative%20persistence/persistance%20vs%20number%20of%20numbers%20where%20number%20is%20considered%20i.e%20permutative%20numbers%20are%20different.png" 
 width="350" height="350" border="10" /> 
 </p>
+This is the 
